@@ -1,0 +1,2041 @@
+{
+    "name": "Flare", 
+    "children": [
+        {
+            "name": "Actinobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Actinoalloteichus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Actinobaculum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Actinomyces", 
+                    "size": "0.227"
+                }, 
+                {
+                    "name": "Actinomycetospora", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Agromyces", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Alloscardovia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Amycolatopsis", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Arcanobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Arthrobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Asaccharobacter", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Atopobium", 
+                    "size": "0.042"
+                }, 
+                {
+                    "name": "Bifidobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Brachybacterium", 
+                    "size": "0.031"
+                }, 
+                {
+                    "name": "Brevibacterium", 
+                    "size": "0.033"
+                }, 
+                {
+                    "name": "Collinsella", 
+                    "size": "0.057"
+                }, 
+                {
+                    "name": "Conexibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Corynebacterium", 
+                    "size": "1.975"
+                }, 
+                {
+                    "name": "Cryptobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Cryptosporangium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Demequina", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Demetria", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Dermacoccus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Dietzia", 
+                    "size": "0.026"
+                }, 
+                {
+                    "name": "Eggerthella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Ferrithrix", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Friedmanniella", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Gardnerella", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Gordonia", 
+                    "size": "0.059"
+                }, 
+                {
+                    "name": "Gordonibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Jonesia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Kibdelosporangium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Kribbella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Luteococcus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Microbacterium", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Microlunatus", 
+                    "size": "0.007"
+                }, 
+                {
+                    "name": "Mobiluncus", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Mycobacterium", 
+                    "size": "0.018"
+                }, 
+                {
+                    "name": "Nakamurella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Nesterenkonia", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Nocardia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Nocardioides", 
+                    "size": "0.02"
+                }, 
+                {
+                    "name": "Nocardiopsis", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Olsenella", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Ornithinimicrobium", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Patulibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Propionibacterium", 
+                    "size": "47.633"
+                }, 
+                {
+                    "name": "Propionimicrobium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Pseudonocardia", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Rothia", 
+                    "size": "0.097"
+                }, 
+                {
+                    "name": "Rubrobacter", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Saccharomonospora", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Saccharopolyspora", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Sciscionella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Solirubrobacter", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Streptomyces", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Tessaracoccus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Thermobifida", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Thermocrispum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Thermoleophilum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Turicella", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.514"
+                }, 
+                {
+                    "name": "Varibaculum", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Williamsia", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Yaniella", 
+                    "size": "0.002"
+                }
+            ]
+        }, 
+        {
+            "name": "", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Bacilli", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Abiotrophia", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Aerococcus", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Alkalibacterium", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Alloiococcus", 
+                    "size": "0.022"
+                }, 
+                {
+                    "name": "Anoxybacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Atopostipes", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Bacillus", 
+                    "size": "0.025"
+                }, 
+                {
+                    "name": "Bavariicoccus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Brevibacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Brochothrix", 
+                    "size": "0.067"
+                }, 
+                {
+                    "name": "Carnobacterium", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Caryophanon", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Cohnella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Dolosigranulum", 
+                    "size": "0.126"
+                }, 
+                {
+                    "name": "Enterococcus", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Eremococcus", 
+                    "size": "0.033"
+                }, 
+                {
+                    "name": "Exiguobacterium", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Facklamia", 
+                    "size": "0.022"
+                }, 
+                {
+                    "name": "Gemella", 
+                    "size": "0.262"
+                }, 
+                {
+                    "name": "Geobacillus", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Granulicatella", 
+                    "size": "0.184"
+                }, 
+                {
+                    "name": "Ignavigranum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Jeotgalicoccus", 
+                    "size": "0.013"
+                }, 
+                {
+                    "name": "Laceyella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Lactobacillus", 
+                    "size": "0.396"
+                }, 
+                {
+                    "name": "Lactococcus", 
+                    "size": "0.101"
+                }, 
+                {
+                    "name": "Leuconostoc", 
+                    "size": "0.008"
+                }, 
+                {
+                    "name": "Listeria", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Lysinibacillus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Macrococcus", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Marinilactibacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Nosocomiicoccus", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Oceanobacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Paenibacillus", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Paenisporosarcina", 
+                    "size": "0.008"
+                }, 
+                {
+                    "name": "Pediococcus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Planifilum", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Planococcus", 
+                    "size": "0.009"
+                }, 
+                {
+                    "name": "Planomicrobium", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Saccharibacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Salinicoccus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Shimazuella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Sporosarcina", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Staphylococcus", 
+                    "size": "11.313"
+                }, 
+                {
+                    "name": "Streptococcus", 
+                    "size": "2.452"
+                }, 
+                {
+                    "name": "Tetragenococcus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Thermicanus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Thermoactinomyces", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Thermobacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Trichococcus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Tuberibacillus", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Tumebacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Ureibacillus", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Vagococcus", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Weissella", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Clostridia", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Acetivibrio", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Acidaminococcus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Alkaliphilus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Allisonella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaerobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaerococcus", 
+                    "size": "0.168"
+                }, 
+                {
+                    "name": "Anaerofilum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaerofustis", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaeroglobus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Anaerosporobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaerotruncus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Blautia", 
+                    "size": "0.247"
+                }, 
+                {
+                    "name": "Butyricicoccus", 
+                    "size": "0.031"
+                }, 
+                {
+                    "name": "Butyrivibrio", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Caldicellulosiruptor", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Centipeda", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Clostridium", 
+                    "size": "0.022"
+                }, 
+                {
+                    "name": "Coprococcus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Dialister", 
+                    "size": "0.065"
+                }, 
+                {
+                    "name": "Dorea", 
+                    "size": "0.031"
+                }, 
+                {
+                    "name": "Eubacterium", 
+                    "size": "0.007"
+                }, 
+                {
+                    "name": "Faecalibacterium", 
+                    "size": "0.354"
+                }, 
+                {
+                    "name": "Fastidiosipila", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Filifactor", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Finegoldia", 
+                    "size": "0.254"
+                }, 
+                {
+                    "name": "Gracilibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Helcococcus", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Howardella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Megamonas", 
+                    "size": "0.04"
+                }, 
+                {
+                    "name": "Megasphaera", 
+                    "size": "0.012"
+                }, 
+                {
+                    "name": "Mitsuokella", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Mogibacterium", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Oribacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Oscillibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Parvimonas", 
+                    "size": "0.015"
+                }, 
+                {
+                    "name": "Peptococcus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Peptoniphilus", 
+                    "size": "0.075"
+                }, 
+                {
+                    "name": "Peptostreptococcus", 
+                    "size": "0.013"
+                }, 
+                {
+                    "name": "Phascolarctobacterium", 
+                    "size": "0.068"
+                }, 
+                {
+                    "name": "Pseudobutyrivibrio", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Pseudoramibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Roseburia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Ruminococcus", 
+                    "size": "0.051"
+                }, 
+                {
+                    "name": "Schwartzia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Selenomonas", 
+                    "size": "0.01"
+                }, 
+                {
+                    "name": "Shuttleworthia", 
+                    "size": "0.015"
+                }, 
+                {
+                    "name": "Sporacetigenium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Sporanaerobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Sporomusa", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Sporotomaculum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Subdoligranulum", 
+                    "size": "0.076"
+                }, 
+                {
+                    "name": "Thermaerobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Thermoanaerobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Tissierella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.283"
+                }, 
+                {
+                    "name": "Veillonella", 
+                    "size": "0.315"
+                }
+            ]
+        }, 
+        {
+            "name": "Erysipelotrichi", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Allobaculum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Bulleidia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Catenibacterium", 
+                    "size": "0.031"
+                }, 
+                {
+                    "name": "Coprobacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Erysipelothrix", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Holdemania", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Solobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Turicibacter", 
+                    "size": "0.019"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.003"
+                }
+            ]
+        }, 
+        {
+            "name": "unclassified", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.295"
+                }
+            ]
+        }, 
+        {
+            "name": "Alphaproteobacteria", 
+            "children": [
+                {
+                    "name": "Acetobacter", 
+                    "size": "0.014"
+                }, 
+                {
+                    "name": "Amaricoccus", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Aurantimonas", 
+                    "size": "0.043"
+                }, 
+                {
+                    "name": "Azospirillum", 
+                    "size": "0.05"
+                }, 
+                {
+                    "name": "Beijerinckia", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Bosea", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Bradyrhizobium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Brevundimonas", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Caulobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Craurococcus", 
+                    "size": "0.007"
+                }, 
+                {
+                    "name": "Hyphomicrobium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Labrys", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Mesorhizobium", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Methylobacterium", 
+                    "size": "0.288"
+                }, 
+                {
+                    "name": "Methylocystis", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Paracoccus", 
+                    "size": "0.203"
+                }, 
+                {
+                    "name": "Pelagibacter", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Pleomorphomonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Rhodobacter", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Rickettsia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Roseomonas", 
+                    "size": "0.114"
+                }, 
+                {
+                    "name": "Rubellimicrobium", 
+                    "size": "0.041"
+                }, 
+                {
+                    "name": "Skermanella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Sphingobium", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Stella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.748"
+                }
+            ]
+        }, 
+        {
+            "name": "Betaproteobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Achromobacter", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Acidovorax", 
+                    "size": "0.039"
+                }, 
+                {
+                    "name": "Alcaligenes", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Aquabacterium", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Azonexus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Azospira", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Bordetella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Brachymonas", 
+                    "size": "0.029"
+                }, 
+                {
+                    "name": "Burkholderia", 
+                    "size": "0.045"
+                }, 
+                {
+                    "name": "Comamonas", 
+                    "size": "0.022"
+                }, 
+                {
+                    "name": "Conchiformibius", 
+                    "size": "0.025"
+                }, 
+                {
+                    "name": "Cupriavidus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Curvibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Denitratisoma", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Herbaspirillum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Hydrogenophaga", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Hydrogenophilus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Inhella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Kingella", 
+                    "size": "0.017"
+                }, 
+                {
+                    "name": "Lampropedia", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Limnobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Massilia", 
+                    "size": "0.129"
+                }, 
+                {
+                    "name": "Methylophilus", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Methyloversatilis", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Neisseria", 
+                    "size": "0.138"
+                }, 
+                {
+                    "name": "Nitrosospira", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Oligella", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Oxalobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Parasutterella", 
+                    "size": "0.014"
+                }, 
+                {
+                    "name": "Pelomonas", 
+                    "size": "2.851"
+                }, 
+                {
+                    "name": "Petrobacter", 
+                    "size": "0.007"
+                }, 
+                {
+                    "name": "Polaromonas", 
+                    "size": "0.062"
+                }, 
+                {
+                    "name": "Polynucleobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Ralstonia", 
+                    "size": "1.721"
+                }, 
+                {
+                    "name": "Ramlibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Roseateles", 
+                    "size": "0.057"
+                }, 
+                {
+                    "name": "Schlegelella", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Simonsiella", 
+                    "size": "0.018"
+                }, 
+                {
+                    "name": "Sutterella", 
+                    "size": "0.009"
+                }, 
+                {
+                    "name": "Tepidimonas", 
+                    "size": "0.008"
+                }, 
+                {
+                    "name": "Thauera", 
+                    "size": "0.016"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.022"
+                }, 
+                {
+                    "name": "Variovorax", 
+                    "size": "0.011"
+                }, 
+                {
+                    "name": "Zoogloea", 
+                    "size": "0.001"
+                }
+            ]
+        }, 
+        {
+            "name": "Deltaproteobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaeromyxobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Bacteriovorax", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Desulfobulbus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Desulfomicrobium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Desulfovibrio", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Geobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Kofleria", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Myxococcus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Nannocystis", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Peredibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Sorangium", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.014"
+                }
+            ]
+        }, 
+        {
+            "name": "Epsilonproteobacteria", 
+            "children": [
+                {
+                    "name": "Arcobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Campylobacter", 
+                    "size": "0.03"
+                }, 
+                {
+                    "name": "Helicobacter", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Gammaproteobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Acinetobacter", 
+                    "size": "0.011"
+                }, 
+                {
+                    "name": "Actinobacillus", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Aeromonas", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Aggregatibacter", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Alcanivorax", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Alishewanella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaerobiospirillum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Arenimonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Cardiobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Dokdonella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Dyella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Enhydrobacter", 
+                    "size": "0.404"
+                }, 
+                {
+                    "name": "Enterobacter", 
+                    "size": "0.017"
+                }, 
+                {
+                    "name": "Escherichia/Shigella", 
+                    "size": "0.011"
+                }, 
+                {
+                    "name": "Francisella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Haemophilus", 
+                    "size": "0.214"
+                }, 
+                {
+                    "name": "Halomonas", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Ignatzschineria", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Klebsiella", 
+                    "size": "0.061"
+                }, 
+                {
+                    "name": "Kushneria", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Legionella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Lysobacter", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Marinomonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Moraxella", 
+                    "size": "0.047"
+                }, 
+                {
+                    "name": "Morganella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Nevskia", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Pasteurella", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Perlucidibaca", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Photobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Proteus", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Providencia", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Pseudomonas", 
+                    "size": "0.112"
+                }, 
+                {
+                    "name": "Pseudoxanthomonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Psychrobacter", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Rahnella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Rheinheimera", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Salinicola", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Serratia", 
+                    "size": "0.007"
+                }, 
+                {
+                    "name": "Shewanella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Steroidobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Succinivibrio", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Thermomonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Thiothrix", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Tolumonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.01"
+                }, 
+                {
+                    "name": "Vibrio", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Wohlfahrtiimonas", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Bacteroidia", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Alistipes", 
+                    "size": "0.064"
+                }, 
+                {
+                    "name": "Bacteroides", 
+                    "size": "1.59"
+                }, 
+                {
+                    "name": "Barnesiella", 
+                    "size": "0.049"
+                }, 
+                {
+                    "name": "Butyricimonas", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Dysgonomonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Hallella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Odoribacter", 
+                    "size": "0.021"
+                }, 
+                {
+                    "name": "Parabacteroides", 
+                    "size": "0.08"
+                }, 
+                {
+                    "name": "Paraprevotella", 
+                    "size": "0.017"
+                }, 
+                {
+                    "name": "Phocaeicola", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Porphyromonas", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Prevotella", 
+                    "size": "0.099"
+                }, 
+                {
+                    "name": "Tannerella", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.202"
+                }, 
+                {
+                    "name": "Xylanibacter", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Flavobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Capnocytophaga", 
+                    "size": "0.017"
+                }, 
+                {
+                    "name": "Chryseobacterium", 
+                    "size": "0.018"
+                }, 
+                {
+                    "name": "Cloacibacterium", 
+                    "size": "0.068"
+                }, 
+                {
+                    "name": "Elizabethkingia", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Epilithonimonas", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Flavobacterium", 
+                    "size": "0.051"
+                }, 
+                {
+                    "name": "Fluviicola", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Gelidibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Myroides", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Planobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Riemerella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Salegentibacter", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Salinimicrobium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.035"
+                }
+            ]
+        }, 
+        {
+            "name": "Sphingobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Adhaeribacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Chitinophaga", 
+                    "size": "0.005"
+                }, 
+                {
+                    "name": "Dyadobacter", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Ferruginibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Hymenobacter", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Lacibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Larkinella", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Mucilaginibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Nubsella", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Olivibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Parasegetibacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Pedobacter", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "Pontibacter", 
+                    "size": "0.003"
+                }, 
+                {
+                    "name": "Sediminibacterium", 
+                    "size": "0.01"
+                }, 
+                {
+                    "name": "Sphingobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Spirosoma", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Sporocytophaga", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Terrimonas", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.027"
+                }
+            ]
+        }, 
+        {
+            "name": "TM7_genera_incertae_sedis", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.028"
+                }
+            ]
+        }, 
+        {
+            "name": "Fusobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Fusobacterium", 
+                    "size": "0.118"
+                }, 
+                {
+                    "name": "Leptotrichia", 
+                    "size": "0.084"
+                }, 
+                {
+                    "name": "Propionigenium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Sneathia", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.001"
+                }
+            ]
+        }, 
+        {
+            "name": "Deinococci", 
+            "children": [
+                {
+                    "name": "Deinococcus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Meiothermus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Thermus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Truepera", 
+                    "size": "0.013"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Mollicutes", 
+            "children": [
+                {
+                    "name": "Acholeplasma", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Anaeroplasma", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Mycoplasma", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Ureaplasma", 
+                    "size": "0.001"
+                }
+            ]
+        }, 
+        {
+            "name": "Cyanobacteria", 
+            "children": [
+                {
+                    "name": "", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.631"
+                }
+            ]
+        }, 
+        {
+            "name": "SR1_genera_incertae_sedis", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.012"
+                }
+            ]
+        }, 
+        {
+            "name": "Spirochaetes", 
+            "children": [
+                {
+                    "name": "Brachyspira", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Leptospira", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Treponema", 
+                    "size": "0.001"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Opitutae", 
+            "children": [
+                {
+                    "name": "Coraliomargarita", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Opitutus", 
+                    "size": "0.014"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Spartobacteria", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.004"
+                }
+            ]
+        }, 
+        {
+            "name": "Subdivision3", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.002"
+                }
+            ]
+        }, 
+        {
+            "name": "Verrucomicrobiae", 
+            "children": [
+                {
+                    "name": "Akkermansia", 
+                    "size": "0.01"
+                }, 
+                {
+                    "name": "Haloferula", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Luteolibacter", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Prosthecobacter", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.002"
+                }
+            ]
+        }, 
+        {
+            "name": "Lentisphaeria", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Victivallis", 
+                    "size": "0.001"
+                }
+            ]
+        }, 
+        {
+            "name": "Synergistia", 
+            "children": [
+                {
+                    "name": "Cloacibacillus", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Jonquetella", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "Pyramidobacter", 
+                    "size": "0.002"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp1", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp11", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp16", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.006"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp3", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.01"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp4", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.003"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp5", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp6", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp7", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Acidobacteria_Gp9", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Holophagae", 
+            "children": [
+                {
+                    "name": "Geothrix", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Planctomycetacia", 
+            "children": [
+                {
+                    "name": "Gemmata", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Isosphaera", 
+                    "size": "0.006"
+                }, 
+                {
+                    "name": "Pirellula", 
+                    "size": "0.004"
+                }, 
+                {
+                    "name": "Planctomyces", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Rhodopirellula", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Singulisphaera", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "unclassified", 
+                    "size": "0.009"
+                }, 
+                {
+                    "name": "Zavarzinella", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Nitrospira", 
+            "children": [
+                {
+                    "name": "Leptospirillum", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Nitrospira", 
+                    "size": "0.006"
+                }
+            ]
+        }, 
+        {
+            "name": "BRC1_genera_incertae_sedis", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "OD1_genera_incertae_sedis", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0.004"
+                }
+            ]
+        }, 
+        {
+            "name": "Anaerolineae", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Chloroflexi", 
+            "children": [
+                {
+                    "name": "Herpetosiphon", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Thermomicrobia", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Gemmatimonadetes", 
+            "children": [
+                {
+                    "name": "Gemmatimonas", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "OP10_genera_incertae_sedis", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "Thermotogae", 
+            "children": [
+                {
+                    "name": "Fervidobacterium", 
+                    "size": "0"
+                }, 
+                {
+                    "name": "Thermotoga", 
+                    "size": "0"
+                }
+            ]
+        }, 
+        {
+            "name": "OP11_genera_incertae_sedis", 
+            "children": [
+                {
+                    "name": "unclassified", 
+                    "size": "0"
+                }
+            ]
+        }
+    ]
+}
